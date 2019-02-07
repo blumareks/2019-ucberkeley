@@ -1,4 +1,4 @@
-# 2019-ucberkeley
+# 2019 UC Berkeley Workshop
 Handful of resources for UC Berkeley students - **ibm.biz/2019-berkeley** - if you like it give me a star
 
 ## check out this visual recognition based on Watson AI
